@@ -9,3 +9,5 @@ An application that automates the counting of sheet stacks in a manufacturing pl
 ```streamlit run main.py```
 
 Number of sheets in the stack will be given as output
+
+[!refresh page](https://github.com/Aaryan015/Stacked-sheets-count-OpenCV/blob/main/Streamlit_app.png/raw?=True)
