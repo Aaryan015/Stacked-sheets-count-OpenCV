@@ -7,7 +7,7 @@ An application that automates the counting of sheet stacks in a manufacturing pl
 pip install streamlit opencv-python numpy Pillow
 ```
 
-## 2. Run the application in terminal:
+### 2. Run the application in terminal:
 ```sh
 streamlit run main.py
 ```
