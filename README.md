@@ -2,12 +2,12 @@
 
 An application that automates the counting of sheet stacks in a manufacturing plant. It allows users to upload an image and then counts the number of horizontal lines in that image, displaying the result in a simple web app using Streamlit.
 
-## Install the required dependencies:
+### 1. Install the required dependencies:
 ```sh
 pip install streamlit opencv-python numpy Pillow
 ```
 
-## Run the application in terminal:
+## 2. Run the application in terminal:
 ```sh
 streamlit run main.py
 ```
