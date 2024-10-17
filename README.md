@@ -11,7 +11,7 @@ pip install streamlit opencv-python numpy Pillow
 ```sh
 streamlit run main.py
 ```
-
+-----
 Number of sheets in the stack will be given as output:
 
 ![refresh page](https://github.com/Aaryan015/Stacked-sheets-count-OpenCV/blob/main/UI.png?raw=true)
